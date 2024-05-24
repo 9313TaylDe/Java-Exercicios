@@ -6,7 +6,7 @@ public class Relacionais {
         int i = 10;
         int a = 5;
 
-        System.out.println("Os operadores relacionais são");
+        System.out.println("Os operadores lógicos são");
         System.out.println("Operador de maior > "+(i > a));
         System.out.println("Operador de maior ou igual >= "+(i >= a));
         System.out.println("Operador de menor < "+(i < a));
