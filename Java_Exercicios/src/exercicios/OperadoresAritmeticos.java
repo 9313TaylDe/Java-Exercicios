@@ -12,10 +12,10 @@ public class OperadoresAritmeticos {
         num1 =  num1 - 1;
 
         System.out.printf("Soma de %d + %d = %d", num1, num2, soma);
-        System.out.printf("Subtração de %d + %d = %d",num1,num2,subtracao);
-        System.out.printf("Multiplicação de %d + %d = %d",num1,num2,multiplicacao);
-        System.out.printf("Divisão de %d + %d = %d",num1,num2,divisao);
-        System.out.printf("Decremento de %d",num1);
+        System.out.printf("\nSubtração de %d + %d = %d",num1,num2,subtracao);
+        System.out.printf("\nMultiplicação de %d + %d = %d",num1,num2,multiplicacao);
+        System.out.printf("\nDivisão de %d / %d = %.2f",num1,num2,divisao);
+      
         //System.out.printf("Soma de %d + %d = %d");
     }
 
