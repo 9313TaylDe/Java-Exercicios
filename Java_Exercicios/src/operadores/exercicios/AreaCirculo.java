@@ -1,3 +1,4 @@
+package operadores.exercicios;
 import java.util.Scanner;
 
 public class AreaCirculo {
