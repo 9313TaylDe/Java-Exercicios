@@ -7,10 +7,11 @@ public class DobroAreaQuadrado {
         
      Scanner sc =  new Scanner(System.in);
 
-        System.out.print("Digite o valor do lado do quadrado: ");
+        System.out.print("Digite o valor do lado: ");
         double lado = sc.nextDouble();
-        double area = Math.pow(lado, 2)*2;
+        
+        double dobro = Math.pow(lado, 2)* 2;
 
-        System.out.printf("O dobro da área de um quadrado cujo um lado é de %.1f, será de %.1fa ",lado, area);
+        System.out.printf("O dobro da are de um quadrado é: %.1f", dobro);
     }
 }
