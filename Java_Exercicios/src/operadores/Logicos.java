@@ -1,4 +1,4 @@
-package operadores;
+package Operadores;
 
 public class Logicos {
 

@@ -1,4 +1,4 @@
-package operadores.exercicios;
+package Operadores.exercicios;
 
 import java.util.Scanner;
 
@@ -19,4 +19,3 @@ public class CelsiusParaFahrenheit {
         Celsius();
     }
 }
-4

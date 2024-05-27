@@ -1,5 +1,4 @@
-package operadores.exercicios;
-
+package Operadores.exercicios;
 import java.util.Scanner;
 
 public class ConexaoInternet {
