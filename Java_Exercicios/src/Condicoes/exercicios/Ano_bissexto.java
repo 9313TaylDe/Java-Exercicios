@@ -2,7 +2,7 @@ package Condicoes.exercicios;
 
 import java.util.Scanner;
 
-public class Ano_issexto {
+public class Ano_bissexto {
     static Scanner sc = new Scanner(System.in);
 
     public static void Bissexto() {
