@@ -9,7 +9,7 @@ public class Inteiro_ou_Decimal {
         System.out.print("Digite um número e veja se édecimal ou inteiro: ");
         double numero = sc.nextDouble();
 
-        if(numero )
+        
     }
     public static void main(String[] args) {
         
