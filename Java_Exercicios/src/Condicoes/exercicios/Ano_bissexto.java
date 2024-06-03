@@ -3,9 +3,9 @@ package Condicoes.exercicios;
 import java.util.Scanner;
 
 public class Ano_bissexto {
-    static Scanner sc = new Scanner(System.in);
 
     public static void Bissexto() {
+        Scanner sc = new Scanner(System.in);
         boolean E_bissexto = false;
 
         System.out.print("Digite o ano: ");
