@@ -1,4 +1,4 @@
-package Operadores;
+package operadores;
 
 public class Aritmeticos {
     public static void main(String[] args) {
@@ -12,10 +12,10 @@ public class Aritmeticos {
         int modu = num1 % num2;
         System.out.println("Operadores ariméticos são");
         System.out.println("Adição + " + soma);
-        System.out.println("Subtração - "+ subtr);
-        System.out.println("Divisão / "+ divi);
-        System.out.println("Multiplicação * "+multi);
-        System.out.println("Módulo ou resto da divisao % "+modu);
+        System.out.println("Subtração - " + subtr);
+        System.out.println("Divisão / " + divi);
+        System.out.println("Multiplicação * " + multi);
+        System.out.println("Módulo ou resto da divisao % " + modu);
     }
 
 }
