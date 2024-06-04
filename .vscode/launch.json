@@ -1,0 +1,343 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Ano_bissexto",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Ano_bissexto",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Caixa_Eletronico",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Caixa_Eletronico",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Comprar_barato",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Comprar_barato",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "DDMMAAAA",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.DDMMAAAA",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Equacao",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Equacao",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Escolha_um_dia",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Escolha_um_dia",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Folha_de_pagamento",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Folha_de_pagamento",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Horario",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Horario",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Impar_Par",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Impar_Par",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Inteiro_ou_Decimal",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Inteiro_ou_Decimal",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Jogo_Assassino",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Jogo_Assassino",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Jogo_Detetive",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Jogo_Detetive",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Maior_de_Dois",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Maior_de_Dois",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Maior_de_tres_numeros",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Maior_de_tres_numeros",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Maior_e_menor_entre_tres",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Maior_e_menor_entre_tres",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Media",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Media",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Media_de_um_aluno",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Media_de_um_aluno",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Opcoes",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Opcoes",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Ordem_decrescente",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Ordem_decrescente",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Organizacoes_Nildinha",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Organizacoes_Nildinha",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "PositivoOuNegativo",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.PositivoOuNegativo",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Programa_CDU",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Programa_CDU",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Qual_a_media",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Qual_a_media",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Triangulo",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.Triangulo",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "VerificaSexo",
+            "request": "launch",
+            "mainClass": "Condicoes.exercicios.VerificaSexo",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Notas_equanto",
+            "request": "launch",
+            "mainClass": "Repeticoes.exercicios.Notas_equanto",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Repeticao_enquanto",
+            "request": "launch",
+            "mainClass": "Repeticoes.exercicios.Repeticao_enquanto",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Repeticao_para",
+            "request": "launch",
+            "mainClass": "Repeticoes.exercicios.Repeticao_para",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Rpeticao_faca_enquanto",
+            "request": "launch",
+            "mainClass": "Repeticoes.exercicios.Rpeticao_faca_enquanto",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Aritmeticos",
+            "request": "launch",
+            "mainClass": "operadores.Aritmeticos",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Logicos",
+            "request": "launch",
+            "mainClass": "operadores.Logicos",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Relacionais",
+            "request": "launch",
+            "mainClass": "operadores.Relacionais",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "AreaCirculo",
+            "request": "launch",
+            "mainClass": "operadores.exercicios.AreaCirculo",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "CalculoPeso",
+            "request": "launch",
+            "mainClass": "operadores.exercicios.CalculoPeso",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "CelsiusParaFahrenheit",
+            "request": "launch",
+            "mainClass": "operadores.exercicios.CelsiusParaFahrenheit",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "ConexaoInternet",
+            "request": "launch",
+            "mainClass": "operadores.exercicios.ConexaoInternet",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "DobroAreaQuadrado",
+            "request": "launch",
+            "mainClass": "operadores.exercicios.DobroAreaQuadrado",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "FahrenheitParaCelsius",
+            "request": "launch",
+            "mainClass": "operadores.exercicios.FahrenheitParaCelsius",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "Impostos",
+            "request": "launch",
+            "mainClass": "operadores.exercicios.Impostos",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "JoaoPescador",
+            "request": "launch",
+            "mainClass": "operadores.exercicios.JoaoPescador",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "MetrosPorCentimetros",
+            "request": "launch",
+            "mainClass": "operadores.exercicios.MetrosPorCentimetros",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "NotasBimestrais",
+            "request": "launch",
+            "mainClass": "operadores.exercicios.NotasBimestrais",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "PesoIdeal",
+            "request": "launch",
+            "mainClass": "operadores.exercicios.PesoIdeal",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "ProdutoSomaTriploEElevadoAoCubo",
+            "request": "launch",
+            "mainClass": "operadores.exercicios.ProdutoSomaTriploEElevadoAoCubo",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "SalarioAoMes",
+            "request": "launch",
+            "mainClass": "operadores.exercicios.SalarioAoMes",
+            "projectName": "Java-Exercicios_d9da0db5"
+        },
+        {
+            "type": "java",
+            "name": "SomaNumeros",
+            "request": "launch",
+            "mainClass": "operadores.exercicios.SomaNumeros",
+            "projectName": "Java-Exercicios_d9da0db5"
+        }
+    ]
+}

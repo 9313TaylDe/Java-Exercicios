@@ -16,11 +16,11 @@ public class Repeticao_para {
         }
         System.out.println("----");
 
-        for(i = fim; i > 0; i--){
+        for (i = fim; i > 0; i--) {
             System.out.printf("\nContando: %d", i);
         }
 
-        for(i = 0, j = 10; i <= j; i ++, j --){
+        for (i = 0, j = 10; i <= j; i++, j--) {
             System.out.printf("\nValor de i %d : Valores de j %d", i, j);
         }
     }
