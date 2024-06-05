@@ -18,7 +18,7 @@ public class Usuario_Senha {
 
             String valida_user = usuario;
             String valida_senha = senha;
-            if (!usuario.equalsIgnoreCase("expedito") && !senha.equalsIgnoreCase("12345")) {
+            if (!usuario.equalsIgnoreCase(valida_user) && !senha.equalsIgnoreCase(valida_senha)) {
                 System.out.flush();
                 System.out.println("\nUsuario e senha incorretos");
             } else if (usuario.equals(senha)) {
