@@ -1,3 +1,5 @@
+package Condicoes.exercicios;
+
 import java.util.Scanner;
 
 public class Combustiveis {
